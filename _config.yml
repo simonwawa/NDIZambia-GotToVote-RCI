@@ -1,12 +1,12 @@
 # GotToVote Config
 
-country: "Ghana"
+country: "Zambia"
 election_year: "2016"
 
-registration_end_date: "13th August 2014"
+registration_end_date: "31st March 2016"
 
-api_key: "AIzaSyAwvkIls5mQybyp2R3g4FGiVetNdeVjUeE"
-table_id: "1NMs_iAwYIZqdEBDVVuxA7nN4BQlvQwNAgevtPkYx"
+api_key: "AIzaSyAZrhdrNUIybMx92TGQKqlQRGIgCTb4ZnI"
+table_id: "1UsF5ZHY6NO7luRGBsjJr44V0OeVdjM-xwu7BnpoM"
 
 google_analytics: 'UA-36749298-3'
 
